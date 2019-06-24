@@ -1,4 +1,5 @@
 #!/bin/bash
+# test
 sudo yum update -y
 sudo yum install java-1.8.0-openjdk
 #aws s3 ls s3://maven-buckets | tail -1 > bfile
